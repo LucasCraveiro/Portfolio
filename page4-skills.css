@@ -1,0 +1,21 @@
+.progress {
+    margin: 60px;
+}
+
+.text {
+    margin: 5px;
+    color: white;
+}
+html {
+    background-color: #3d3737;    
+}
+
+.bg2 {
+    background-color: #3d3737;
+
+}
+
+.text p {
+    margin: 5px;
+    padding: 5px;
+}

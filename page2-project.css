@@ -1,0 +1,29 @@
+.bg2 {
+    background-color: #3d3737;
+}
+
+.bg2 h1 {
+    color: whitesmoke;
+    position: relative;
+    left: 560px;
+    top: 20px;
+}
+p {
+    color: white;
+    text-align: center;
+}
+
+img {
+    width: 450px;
+    height: 330px;
+    margin: 30px;
+    position: relative;
+    left: 130px;
+    box-shadow: 2px 2px 8px black;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+
